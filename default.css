@@ -5,23 +5,25 @@
 .left {
 	width: 400px;
 	float: left;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 .right {
 	width: 400px;
 	float: right;
-		}
-h1{
-	text-align: center;
+	font-family: 'Roboto', sans-serif;
 }
 .donate {
 	font-size: 30px;
 	text-align: center;
-
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 html.article{
 	margin: 0: auto;
 	width: 900px;
-}
-body{
 
 }
+
+h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
