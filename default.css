@@ -5,12 +5,10 @@
 .left {
 	width: 400px;
 	float: left;
-	border: 5px solid black;
 }
 .right {
 	width: 400px;
 	float: right;
-	border: 5px solid black;
 		}
 h1{
 	text-align: center;
