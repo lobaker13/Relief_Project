@@ -1,0 +1,29 @@
+#wrap {
+	width: 900px;
+	margin: 0 auto;
+		}
+.left {
+	width: 400px;
+	float: left;
+	border: 5px solid black;
+}
+.right {
+	width: 400px;
+	float: right;
+	border: 5px solid black;
+		}
+h1{
+	text-align: center;
+}
+.donate {
+	font-size: 30px;
+	text-align: center;
+
+}
+html.article{
+	margin: 0: auto;
+	width: 900px;
+}
+body{
+
+}
