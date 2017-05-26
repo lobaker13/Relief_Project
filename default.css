@@ -26,4 +26,6 @@ html.article{
 h2 {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
-
+body {
+	background-color: #e2e1dc;
+}
