@@ -1,6 +1,7 @@
 #wrap {
 	width: 900px;
 	margin: 0 auto;
+	position: relative;
 		}
 .left {
 	width: 400px;
@@ -29,4 +30,20 @@ h2 {
 }
 body {
 	background-image: url(https://st.depositphotos.com/1172243/1788/i/950/depositphotos_17883015-stock-photo-light-grey-textured-fabric-background.jpg);
+}
+h1 {
+	text-align: all;
+	font-family: 'Bungee Shade', cursive;
+	font-size: 29px; 
+	background-color: black;
+	color: white; 
+	width: 230px; 
+	position: fixed; 
+	top: -21px; 
+	left: -2px;
+	z-index: 1;
+}
+
+
+
 }
