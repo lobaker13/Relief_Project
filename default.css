@@ -10,7 +10,7 @@
 .right {
 	width: 400px;
 	float: right;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Sanchez', serif;
 }
 .donate {
 	font-size: 30px;
@@ -25,6 +25,7 @@ html.article{
 
 h2 {
 	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px
 }
 body {
 	background-image: url(https://st.depositphotos.com/1172243/1788/i/950/depositphotos_17883015-stock-photo-light-grey-textured-fabric-background.jpg);
