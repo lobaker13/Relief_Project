@@ -1,27 +1,49 @@
 #wrap {
 	width: 900px;
 	margin: 0 auto;
+	position: relative;
 		}
 .left {
 	width: 400px;
 	float: left;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 .right {
 	width: 400px;
 	float: right;
-		}
-h1{
-	text-align: center;
+	font-family: 'Sanchez', serif;
 }
 .donate {
 	font-size: 30px;
 	text-align: center;
-
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 html.article{
 	margin: 0: auto;
 	width: 900px;
+
 }
-body{
+
+h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px
+}
+body {
+	background-image: url(https://st.depositphotos.com/1172243/1788/i/950/depositphotos_17883015-stock-photo-light-grey-textured-fabric-background.jpg);
+}
+h1 {
+	text-align: all;
+	font-family: 'Bungee Shade', cursive;
+	font-size: 29px; 
+	background-color: black;
+	color: white; 
+	width: 230px; 
+	position: fixed; 
+	top: -21px; 
+	left: -2px;
+	z-index: 1;
+}
+
+
 
 }
